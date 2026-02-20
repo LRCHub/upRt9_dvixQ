@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Feel the winds",
+  "base_artist": "緋月ゆい",
+  "createdAt": "2026-02-20T06:48:40.723242Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel the winds",
+      "artist": "Yui Hizuki",
+      "has_synced": true,
+      "path": "select/01_Feel_the_winds_Yui_Hizuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feel the Winds",
+      "artist": "Hizuki Yui",
+      "has_synced": true,
+      "path": "select/02_Feel_the_Winds_Hizuki_Yui.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feel the winds",
+      "artist": "緋月ゆい",
+      "has_synced": false,
+      "path": "select/pl_01_Feel_the_winds_緋月ゆい.txt"
+    }
+  ]
+}
